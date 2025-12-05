@@ -47,3 +47,7 @@ php artisan migrate --seed
 ```bash
 php artisan serve
 ```
+
+Below things is not completed
+
+#1. I also wanted to install vue within laravel project but for now i have done seperatey.
